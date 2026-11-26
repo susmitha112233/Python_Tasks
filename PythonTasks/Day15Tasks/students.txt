@@ -1,0 +1,2 @@
+{'Ravi': 80, 'Sita': 45, 'Ram': 70}
+Average: 65.0
